@@ -9,7 +9,7 @@ public class CaixaEletronico {
             System.out.println("Novo saldo: " + saldo);
         }else{
             System.out.println("Saldo insuficiente para saque. Saldo atual: " + saldo);
-            //*-
+
             System.out.println("Valor solicitado: " + valorSolicitado);
         }
 
