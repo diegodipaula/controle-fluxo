@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e4afaea-5075-4d44-a888-fddebcbb9985" name="Changes" comment="Inlcuindo condicionais">
-      <change beforePath="$PROJECT_DIR$/src/CaixaEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaixaEletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ResultadoEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResultadoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaMedida.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <updated>1712436727132</updated>
       <workItem from="1712436728207" duration="1232000" />
       <workItem from="1712437984297" duration="1800000" />
-      <workItem from="1712440570097" duration="609000" />
+      <workItem from="1712440570097" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="Início projeto controle de fluxo">
       <option name="closed" value="true" />
@@ -186,7 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712440907877</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Inlcuindo condicionais">
+      <option name="closed" value="true" />
+      <created>1712441183847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712441183847</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Inlcuindo condicionais">
+      <option name="closed" value="true" />
+      <created>1712441230652</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712441230652</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
