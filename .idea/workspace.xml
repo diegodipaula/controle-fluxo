@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e4afaea-5075-4d44-a888-fddebcbb9985" name="Changes" comment="Inlcuindo condicionais">
-      <change afterPath="$PROJECT_DIR$/src/SistemaMedida.java" afterDir="false" />
+    <list default="true" id="3e4afaea-5075-4d44-a888-fddebcbb9985" name="Changes" comment="Inlcuindo Classe SistemaMedida">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploBreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlanoOperadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/excepcionais/AboutMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/excepcionais/ExemploExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/excepcionais/exceptions/CepInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/excepcionais/formatadorCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/repeticao/ExemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/repeticao/ExemploFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/repeticao/ExemploForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturas/repeticao/ExemploWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,24 +71,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CaixaEletronico.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ResultadoEscolar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Desenvolvimento/JAVA/DIO/controle-fluxo/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AboutMe.executor": "Run",
+    "Application.CaixaEletronico.executor": "Run",
+    "Application.ExemploBreakContinue.executor": "Run",
+    "Application.ExemploDoWhile.executor": "Run",
+    "Application.ExemploExcecao.executor": "Run",
+    "Application.ExemploFor.executor": "Run",
+    "Application.ExemploForArray.executor": "Run",
+    "Application.ExemploWhile.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.PlanoOperadora.executor": "Run",
+    "Application.ResultadoEscolar.executor": "Run",
+    "Application.SistemaMedida.executor": "Debug",
+    "Application.formatadorCep.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Desenvolvimento/JAVA/DIO/controle-fluxo/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.formatadorCep">
+    <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturas.excepcionais.AboutMe" />
+      <module name="controle-fluxo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturas.excepcionais.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturas.repeticao.ExemploDoWhile" />
+      <module name="controle-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploExcecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturas.excepcionais.ExemploExcecao" />
+      <module name="controle-fluxo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturas.excepcionais.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturas.repeticao.ExemploWhile" />
+      <module name="controle-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="formatadorCep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturas.excepcionais.formatadorCep" />
+      <module name="controle-fluxo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturas.excepcionais.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.formatadorCep" />
+        <item itemvalue="Application.ExemploExcecao" />
+        <item itemvalue="Application.AboutMe" />
+        <item itemvalue="Application.ExemploDoWhile" />
+        <item itemvalue="Application.ExemploWhile" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,7 +181,7 @@
       <updated>1712436727132</updated>
       <workItem from="1712436728207" duration="1232000" />
       <workItem from="1712437984297" duration="1800000" />
-      <workItem from="1712440570097" duration="770000" />
+      <workItem from="1712440570097" duration="7660000" />
     </task>
     <task id="LOCAL-00001" summary="Início projeto controle de fluxo">
       <option name="closed" value="true" />
@@ -201,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712441230652</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Inlcuindo Classe SistemaMedida">
+      <option name="closed" value="true" />
+      <created>1712441664852</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712441664852</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +345,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Início projeto controle de fluxo" />
     <MESSAGE value="Inlcuindo condicionais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inlcuindo condicionais" />
+    <MESSAGE value="Inlcuindo Classe SistemaMedida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inlcuindo Classe SistemaMedida" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,6 +355,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SistemaMedida.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/estruturas/repeticao/ExemploDoWhile.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
